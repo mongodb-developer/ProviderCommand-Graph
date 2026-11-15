@@ -1,0 +1,3 @@
+# Standalone support modules; Streamlit and pandas are not required here.
+pymongo>=4.7,<5
+dnspython>=2,<3
